@@ -1,0 +1,6 @@
+[submodule "third-party/edk2"]
+	path = third-party/edk2
+	url = https://github.com/tianocore/edk2
+[submodule "third-party/edk2-platforms"]
+	path = third-party/edk2-platforms
+	url = https://github.com/tianocore/edk2-platforms
